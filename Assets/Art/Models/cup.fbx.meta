@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: 015b1f3803a1d6e4fa43334a856d76f3
+guid: 921b4b80dd9dab84e97d0deb8fee803d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColorTexture
+    second: {fileID: 2100000, guid: 5cebf0a0fb0d4f14a9f7df2ae9823819, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hole
+    second: {fileID: 2100000, guid: 5cebf0a0fb0d4f14a9f7df2ae9823819, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outline
+    second: {fileID: 2100000, guid: f5ce6f3a141240f44b176ee89e5fc434, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

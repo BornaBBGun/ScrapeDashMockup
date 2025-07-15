@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ColorTexture
-    second: {fileID: 2100000, guid: 10d8378ea63b55646bf8c0b51dd1cac7, type: 2}
+    second: {fileID: 2100000, guid: da19ddaf92676274ea6f2c8086e93145, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
